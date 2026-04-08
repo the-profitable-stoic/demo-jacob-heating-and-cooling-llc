@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "Jacob Heating and Cooling LLC",
+    "phone": "+18164698760",
+    "category": "HVAC contractor",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "KC's Trusted HVAC Experts",
+      "heroSubline": "Jacob Heating & Cooling delivers reliable comfort in Kansas City, MO. We tackle the toughest HVAC challenges with experience and integrity.",
+      "aboutTitle": "Your Kansas City Comfort Experts",
+      "aboutText": [
+        "Jacob Heating & Cooling LLC started with a simple goal: to provide honest, reliable HVAC services to our neighbors in Kansas City. We’re not just another contractor; we’re a team of experienced professionals dedicated to keeping your home comfortable year-round.",
+        "We believe in clear communication, upfront pricing, and doing the job right the first time. Our approach is straightforward: assess your needs, explain your options, and deliver solutions that fit your budget and your home. No hidden fees, no shortcuts, just quality workmanship.",
+        "We’re proud to be a part of the Kansas City community. We support local initiatives and strive to build lasting relationships with our customers. When you choose Jacob Heating & Cooling, you’re choosing a team that cares about your comfort and the well-being of our community."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Kansas City's unique climate and housing styles."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No surprises. You'll know the cost before we start any work."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time and get the job done right, guaranteed."
+        },
+        {
+          "title": "24/7 Emergency Support",
+          "description": "HVAC emergencies don't wait, and neither do we. Call us anytime."
+        }
+      ],
+      "ctaHeadline": "Get Your Free HVAC Quote Today!",
+      "ctaSubline": "Experience the Jacob Heating & Cooling difference. Contact us for a no-obligation estimate."
+    },
+    "services": [
+      {
+        "slug": "ac-repair-kansas-city",
+        "name": "Air Conditioner Repair",
+        "shortDescription": "Fast, reliable AC repair services for Kansas City homes.",
+        "description": "Kansas City summers are brutal. When your AC breaks down, you need a reliable repair service, fast. Jacob Heating & Cooling LLC provides expert air conditioner repair to get your home cool again quickly. Our experienced technicians diagnose all AC problems, from refrigerant leaks and compressor failures to faulty wiring and thermostat issues. We work on all makes and models of air conditioners.\n\nWe understand the urgency of AC repairs, especially during a Kansas City heat wave. That's why we offer 24/7 emergency service. We arrive promptly, assess the problem, and provide a clear explanation of the necessary repairs and associated costs. We use only quality replacement parts and guarantee our workmanship.\n\nDon't suffer through another hot Kansas City day with a broken AC. Call Jacob Heating & Cooling for fast, reliable air conditioner repair. We'll get your system back up and running efficiently, restoring comfort to your home. We service all neighborhoods including Brookside, Waldo, and the Northland.",
+        "process": [
+          "Diagnose the AC problem",
+          "Provide a clear explanation and upfront pricing",
+          "Complete the repair using quality parts",
+          "Test the system to ensure proper operation"
+        ],
+        "benefits": [
+          "Fast response times",
+          "Experienced and certified technicians",
+          "Upfront pricing with no hidden fees",
+          "24/7 emergency service"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an AC repair call?",
+            "answer": "We offer 24/7 emergency service and strive to respond to repair calls as quickly as possible, especially during peak season."
+          },
+          {
+            "question": "Do you work on all brands of air conditioners?",
+            "answer": "Yes, our technicians are trained to repair all makes and models of air conditioning systems."
+          },
+          {
+            "question": "What if my AC needs to be replaced instead of repaired?",
+            "answer": "If the AC is beyond repair or nearing the end of its lifespan, we will provide a detailed explanation of replacement options and help you choose the best system for your needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "furnace-repair-kansas-city",
+        "name": "Furnace Repair",
+        "shortDescription": "Expert furnace repair services to keep your home warm during Kansas City winters.",
+        "description": "Kansas City winters can be harsh, with temperatures often dipping below freezing. A malfunctioning furnace can quickly make your home uncomfortable and even dangerous. Jacob Heating & Cooling LLC offers reliable furnace repair services to keep your home warm and safe throughout the winter months. Our skilled technicians are experienced in diagnosing and repairing all types of furnace problems, including ignition issues, blower motor failures, heat exchanger problems, and gas leaks.\n\nWe understand that furnace breakdowns often occur at the worst possible times. That's why we offer 24/7 emergency service. We'll dispatch a technician to your home as soon as possible to diagnose the problem and get your furnace back up and running. We use only quality replacement parts and stand behind our workmanship.\n\nFrom older homes in Brookside to newer constructions in the Northland, we have experience servicing all types of heating systems. Don't let a broken furnace leave you in the cold. Call Jacob Heating & Cooling for fast, reliable furnace repair services.",
+        "process": [
+          "Inspect the furnace and diagnose the problem",
+          "Provide a detailed explanation of the needed repairs",
+          "Complete the repair using quality replacement parts",
+          "Test the furnace to ensure proper operation"
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Experienced and certified technicians",
+          "24/7 emergency service",
+          "Upfront and honest pricing"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs that my furnace needs repair?",
+            "answer": "Common signs include unusual noises, inconsistent heating, a yellow pilot light, and a sudden increase in your energy bills."
+          },
+          {
+            "question": "How often should I have my furnace serviced?",
+            "answer": "We recommend annual furnace maintenance to ensure optimal performance and prevent costly repairs."
+          },
+          {
+            "question": "What if my furnace is beyond repair?",
+            "answer": "If your furnace is old or severely damaged, we can help you choose a new, energy-efficient model and provide professional installation."
+          }
+        ]
+      },
+      {
+        "slug": "ac-installation-kansas-city",
+        "name": "Air Conditioner Installation",
+        "shortDescription": "Professional AC installation for optimal cooling in your Kansas City home.",
+        "description": "Is your old air conditioner struggling to keep up with Kansas City's hot and humid summers? Or are you building a new home and need a reliable cooling system? Jacob Heating & Cooling LLC provides expert air conditioner installation services to ensure optimal comfort and energy efficiency. We'll help you choose the right AC system for your home's size, layout, and budget.\n\nOur experienced technicians will handle every aspect of the installation process, from removing your old unit to installing the new one and connecting it to your existing ductwork. We ensure proper sizing and installation for maximum performance and energy savings. We only install high-quality air conditioners from trusted brands.\n\nWe understand the importance of a properly installed AC system, especially in older Kansas City homes with unique challenges like those found in Waldo and Westport. We'll work with you to find the best solution for your specific needs. Call Jacob Heating & Cooling for professional air conditioner installation.",
+        "process": [
+          "Assess your home's cooling needs",
+          "Recommend the right AC system for your budget",
+          "Install the AC system according to manufacturer specifications",
+          "Test the system to ensure proper operation"
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Consistent cooling",
+          "Quieter operation",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right size AC for my home?",
+            "answer": "We'll perform a load calculation to determine the appropriate AC size based on your home's square footage, insulation, and other factors."
+          },
+          {
+            "question": "How long does AC installation take?",
+            "answer": "The installation time depends on the complexity of the job, but most installations can be completed in one day."
+          },
+          {
+            "question": "Do you offer financing options for AC installation?",
+            "answer": "Yes, we offer flexible financing options to make AC installation more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "furnace-installation-kansas-city",
+        "name": "Furnace Installation",
+        "shortDescription": "Reliable furnace installation services for a warm and cozy Kansas City home.",
+        "description": "When it's time to replace your old, inefficient furnace or install a new one in a new construction, trust Jacob Heating & Cooling LLC for professional furnace installation services in Kansas City. We'll help you select the right furnace for your home's size, insulation, and heating needs. Our expert technicians will ensure a proper and efficient installation, maximizing your comfort and minimizing your energy bills.\n\nWe understand the unique challenges of heating older homes in areas like Brookside and Waldo, as well as the needs of newer homes in Overland Park and Olathe. We'll take into account your home's specific characteristics to recommend the best furnace for your situation. We install all types of furnaces, including gas, electric, and propane models.\n\nProper furnace installation is crucial for safety and efficiency. Our experienced technicians follow all manufacturer specifications and local building codes. We'll also provide you with instructions on how to operate and maintain your new furnace. Call Jacob Heating & Cooling for reliable furnace installation you can count on.",
+        "process": [
+          "Assess your home's heating needs",
+          "Recommend the right furnace for your budget and needs",
+          "Remove the old furnace (if applicable)",
+          "Install the new furnace according to manufacturer specifications"
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Consistent heating",
+          "Quieter operation",
+          "Increased safety"
+        ],
+        "faq": [
+          {
+            "question": "What type of furnace is best for my home?",
+            "answer": "The best type of furnace depends on factors such as your fuel source, budget, and heating needs. We'll help you evaluate your options and choose the right furnace for your situation."
+          },
+          {
+            "question": "How long does furnace installation take?",
+            "answer": "Furnace installation typically takes one to two days, depending on the complexity of the job."
+          },
+          {
+            "question": "Do you offer warranties on furnace installations?",
+            "answer": "Yes, we offer comprehensive warranties on all our furnace installations."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-maintenance-kansas-city",
+        "name": "HVAC Maintenance",
+        "shortDescription": "Preventative HVAC maintenance to keep your systems running smoothly in Kansas City.",
+        "description": "Regular HVAC maintenance is crucial for preventing breakdowns, extending the lifespan of your equipment, and maintaining optimal energy efficiency. Jacob Heating & Cooling LLC offers comprehensive HVAC maintenance services to keep your heating and cooling systems running smoothly year-round in Kansas City.\n\nOur maintenance service includes a thorough inspection of your HVAC system, cleaning of key components, lubrication of moving parts, and testing of system performance. We'll identify potential problems early on and recommend necessary repairs to prevent costly breakdowns. We service all makes and models of HVAC equipment.\n\nWhether you live in a historic home in Westport or a modern home in Lee's Summit, our HVAC maintenance services can help you keep your system in top condition. We offer annual maintenance plans to make it easy to stay on top of your HVAC maintenance needs. Call Jacob Heating & Cooling to schedule your HVAC maintenance appointment today.",
+        "process": [
+          "Inspect the HVAC system for any issues",
+          "Clean the coils and other components",
+          "Lubricate moving parts",
+          "Test the system for proper operation"
+        ],
+        "benefits": [
+          "Reduced energy bills",
+          "Extended equipment lifespan",
+          "Fewer breakdowns",
+          "Improved indoor air quality"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule HVAC maintenance?",
+            "answer": "We recommend scheduling HVAC maintenance at least once a year, preferably in the spring for your AC and in the fall for your furnace."
+          },
+          {
+            "question": "What are the benefits of regular HVAC maintenance?",
+            "answer": "Regular maintenance can help you save money on energy bills, prevent costly repairs, and extend the lifespan of your HVAC equipment."
+          },
+          {
+            "question": "What is included in an HVAC maintenance service?",
+            "answer": "Our HVAC maintenance service includes a thorough inspection, cleaning, lubrication, and testing of your system."
+          }
+        ]
+      },
+      {
+        "slug": "ductwork-services-kansas-city",
+        "name": "Ductwork Services",
+        "shortDescription": "Expert ductwork inspection, repair, and installation for efficient airflow in Kansas City.",
+        "description": "Leaky or poorly designed ductwork can significantly reduce the efficiency of your HVAC system, leading to higher energy bills and uneven temperatures throughout your home. Jacob Heating & Cooling LLC offers comprehensive ductwork services in Kansas City, including inspection, repair, sealing, and installation.\n\nOur experienced technicians will thoroughly inspect your ductwork to identify any leaks, damage, or design flaws. We use advanced techniques to seal leaks and repair damaged sections, ensuring optimal airflow and energy efficiency. We also offer complete ductwork installation services for new construction or renovations.\n\nMany older homes in Kansas City, like those in Brookside and Waldo, have outdated or poorly maintained ductwork. Our ductwork services can help improve the comfort and efficiency of these homes. We can also design and install custom ductwork systems for newer homes to ensure optimal performance. Call Jacob Heating & Cooling for expert ductwork services.",
+        "process": [
+          "Inspect the ductwork for leaks and damage",
+          "Seal any leaks with mastic or tape",
+          "Repair or replace damaged sections of ductwork",
+          "Design and install new ductwork systems"
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "More consistent temperatures",
+          "Reduced dust and allergens",
+          "Lower energy bills"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my ductwork is leaking?",
+            "answer": "Signs of leaky ductwork include higher energy bills, uneven temperatures, and increased dust and allergens in your home."
+          },
+          {
+            "question": "How can ductwork sealing improve my home's energy efficiency?",
+            "answer": "Sealing ductwork can prevent air leaks, which can significantly reduce energy waste and lower your energy bills."
+          },
+          {
+            "question": "What are the benefits of new ductwork installation?",
+            "answer": "New ductwork installation can improve airflow, reduce energy waste, and provide more consistent temperatures throughout your home."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-hvac-repair-kansas-city",
+        "name": "Emergency HVAC Repair",
+        "shortDescription": "24/7 emergency HVAC repair services for Kansas City residents.",
+        "description": "HVAC emergencies don't wait for convenient hours. When your furnace breaks down in the dead of winter or your AC quits during a scorching summer heat wave, you need a reliable emergency repair service you can count on. Jacob Heating & Cooling LLC offers 24/7 emergency HVAC repair services to Kansas City residents.\n\nOur experienced technicians are available around the clock to respond to your HVAC emergencies. We'll arrive promptly, diagnose the problem, and provide a fast and effective solution to restore comfort to your home. We handle all types of HVAC emergencies, from furnace failures and AC breakdowns to gas leaks and carbon monoxide concerns.\n\nWe understand the stress and inconvenience of an HVAC emergency. That's why we prioritize emergency calls and strive to provide the fastest possible service. Whether you're in Overland Park, Olathe, Lee's Summit, or anywhere else in the Kansas City metro area, we're here to help. Call Jacob Heating & Cooling for 24/7 emergency HVAC repair services.",
+        "process": [
+          "Dispatch a technician to your home as quickly as possible",
+          "Diagnose the HVAC problem",
+          "Provide a clear explanation and upfront pricing",
+          "Complete the repair using quality parts"
+        ],
+        "benefits": [
+          "Fast response times",
+          "24/7 availability",
+          "Experienced and certified technicians",
+          "Upfront pricing with no hidden fees"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes an HVAC emergency?",
+            "answer": "An HVAC emergency includes situations such as a complete furnace failure in cold weather, an AC breakdown during extreme heat, gas leaks, and carbon monoxide concerns."
+          },
+          {
+            "question": "How quickly can you respond to an emergency repair call?",
+            "answer": "We prioritize emergency calls and strive to respond as quickly as possible, typically within a few hours."
+          },
+          {
+            "question": "Do you charge extra for emergency service?",
+            "answer": "Yes, emergency service calls typically involve an additional fee to cover after-hours availability and expedited service."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Jacob Heating and Cooling LLC is proud to provide top-quality HVAC services to Overland Park, Missouri. We understand the unique needs of Overland Park residents, many of whom live in homes built during the 1970s through 1990s. These established suburban homes often require specialized attention to their heating and cooling systems to ensure optimal efficiency and comfort.\n\nGiven Overland Park's climate, with its cold winters and occasional ice storms, a reliable and efficient heating system is crucial. We offer a full range of services, including furnace repair, installation, and maintenance, as well as comprehensive air conditioning services to keep your home comfortable year-round. Our experienced technicians are familiar with the specific challenges of older homes and can provide tailored solutions to meet your needs.",
+        "localContext": "Overland Park is a large suburban city known for its family-friendly atmosphere and well-established neighborhoods dating back several decades.",
+        "nearbyAreas": [
+          "Leawood",
+          "Prairie Village",
+          "Lenexa"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Jacob Heating and Cooling LLC is dedicated to serving the residents of Olathe, Missouri, with exceptional HVAC services. Olathe is characterized by its family-oriented atmosphere and many homes that were built during the 1980s through the early 2000s. We understand the specific HVAC needs of these homes and are committed to providing reliable and efficient solutions.\n\nThe climate in Olathe, with its cold winters and ice storms, demands a dependable heating system. Jacob Heating and Cooling provides comprehensive heating and cooling services, including furnace and air conditioner repair, installation, and maintenance. Our team is experienced in working with different HVAC systems and can offer customized solutions to ensure your home remains comfortable throughout the year.",
+        "localContext": "Olathe is a growing suburban city with many family-friendly neighborhoods developed in the late 20th and early 21st centuries.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Gardner",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Jacob Heating and Cooling LLC proudly serves the community of Lee's Summit, Missouri, offering reliable and professional HVAC services. Lee's Summit features many homes built during the 1970s through 1990s, and we understand the specific needs of these properties when it comes to heating and cooling.\n\nWith Lee's Summit's climate bringing cold winters and occasional ice storms, a dependable heating system is essential. We offer a complete range of HVAC services, including furnace repair, air conditioning installation, and routine maintenance. Our skilled technicians are equipped to handle any HVAC issue, ensuring your home stays comfortable no matter the season.",
+        "localContext": "Lee's Summit is a large suburban city with a mix of established neighborhoods and newer developments.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Independence",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "Jacob Heating and Cooling LLC is your trusted HVAC partner in Kansas City, Missouri. From historic homes to modern apartments, we serve a diverse range of properties throughout the city. We understand the unique challenges of maintaining comfortable temperatures in Kansas City's varied climate.\n\nWhether you need furnace repair in the dead of winter or air conditioning maintenance during the hot summer months, we're here to help. We offer a full suite of HVAC services, including installation, repair, and maintenance for all types of systems. Our experienced technicians are committed to providing prompt, reliable service to keep your home or business comfortable year-round.",
+        "localContext": "Kansas City is a major metropolitan area with a diverse mix of residential and commercial properties.",
+        "nearbyAreas": [
+          "Independence",
+          "Overland Park",
+          "Gladstone"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Jacob Heating and Cooling LLC is proud to serve the residents of Independence, Missouri, with reliable and affordable HVAC services. We understand the needs of homeowners in Independence, from historic homes to newer constructions. Our goal is to ensure your comfort throughout the year.\n\nWe provide a comprehensive range of services, including furnace repair, air conditioning installation, and routine maintenance. Our experienced technicians are familiar with the climate in Independence and can recommend solutions tailored to your specific needs. We are committed to providing prompt and professional service to keep your HVAC system running smoothly.",
+        "localContext": "Independence is a historic city with a mix of older and newer homes, located just east of Kansas City.",
+        "nearbyAreas": [
+          "Lee's Summit",
+          "Blue Springs",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Jacob Heating and Cooling LLC provides top-notch HVAC services to the Blue Springs, Missouri, community. We understand the needs of Blue Springs residents, offering solutions for a variety of homes and businesses. We are dedicated to providing excellent service and ensuring your comfort.\n\nWe offer a full range of HVAC services, including furnace repair, air conditioning installation, and regular maintenance. Our technicians are highly trained and experienced in working with all types of systems. We are committed to providing prompt, reliable service to keep your heating and cooling systems running efficiently year-round.",
+        "localContext": "Blue Springs is a growing suburban city known for its family-friendly environment and community events.",
+        "nearbyAreas": [
+          "Independence",
+          "Lee's Summit",
+          "Grain Valley"
+        ]
+      },
+      {
+        "city": "Raytown",
+        "slug": "raytown-mo",
+        "state": "MO",
+        "content": "Jacob Heating and Cooling LLC is your trusted HVAC provider in Raytown, Missouri. We are committed to providing exceptional service to the Raytown community, addressing all your heating and cooling needs. We understand the local climate and offer solutions tailored to your specific requirements.\n\nWe provide a comprehensive range of HVAC services, including furnace repair, air conditioning installation, and routine maintenance. Our skilled technicians are equipped to handle any HVAC issue, ensuring your home or business stays comfortable throughout the year. We pride ourselves on our prompt, reliable service and commitment to customer satisfaction.",
+        "localContext": "Raytown is a residential community with a mix of established neighborhoods and local businesses.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Independence",
+          "Lee's Summit"
+        ]
+      },
+      {
+        "city": "Leawood",
+        "slug": "leawood-mo",
+        "state": "MO",
+        "content": "Jacob Heating and Cooling LLC is pleased to offer our expert HVAC services to the residents of Leawood, Missouri. Leawood is known for its well-maintained homes and beautiful neighborhoods. We understand the importance of keeping your home comfortable year-round, and we are committed to providing reliable and efficient HVAC solutions.\n\nWe offer a full range of services, including furnace repair, air conditioning installation, and routine maintenance. Our technicians are highly skilled and experienced in working with a variety of HVAC systems. We are dedicated to providing prompt and professional service to ensure your complete satisfaction.",
+        "localContext": "Leawood is an affluent suburban city known for its high-quality homes and excellent schools.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Prairie Village",
+          "Kansas City"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "Jacob Heating and Cooling LLC is dedicated to providing top-quality HVAC services to the residents of Lenexa, Missouri. Lenexa is a thriving community with a mix of residential and commercial properties. We understand the importance of a reliable and efficient HVAC system, and we are committed to providing solutions tailored to your specific needs.\n\nWe offer a comprehensive range of HVAC services, including furnace repair, air conditioning installation, and routine maintenance. Our experienced technicians are familiar with the climate in Lenexa and can provide expert advice on how to keep your home or business comfortable year-round. We pride ourselves on our prompt, reliable service and commitment to customer satisfaction.",
+        "localContext": "Lenexa is a growing suburban city with a strong business community and a variety of residential neighborhoods.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Olathe",
+          "Shawnee"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Jacob Heating & Cooling saved us during that awful heatwave! Our AC went out on a Saturday night, and they were at our house within an hour. The technician, Dave, was super professional and had us up and running again in no time. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 4,
+        "service": "Furnace Installation",
+        "text": "We had Jacob Heating & Cooling install a new furnace in our Brookside home. The installation team was efficient and cleaned up everything afterward. The new furnace is much quieter and our heating bills have already decreased. Lost a star because the initial quote took a few days longer than expected.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "HVAC Maintenance",
+        "text": "We've been using Jacob Heating & Cooling for our annual HVAC maintenance for the past three years, and they're always reliable. Their technicians are thorough and explain everything clearly. It gives us peace of mind knowing our system is in good hands.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Kevin R.",
+        "rating": 5,
+        "service": "Ductwork Sealing",
+        "text": "After noticing high energy bills and inconsistent temperatures, Jacob Heating & Cooling came out and sealed our ductwork. The difference is amazing! Our house is much more comfortable, and our energy bills have decreased significantly. Great service!",
+        "date": "2025-04-12"
+      },
+      {
+        "name": "Amy K.",
+        "rating": 4,
+        "service": "New AC Unit Installation",
+        "text": "Jacob Heating & Cooling installed a new AC unit in our Olathe home. They were very helpful in choosing the right unit for our needs and budget. The installation process was smooth and professional. We're happy with the new system. Only docking a star because of a minor scheduling issue.",
+        "date": "2024-08-20"
+      },
+      {
+        "name": "Brian S.",
+        "rating": 5,
+        "service": "Emergency Furnace Repair",
+        "text": "Our furnace went out on Christmas Eve, and Jacob Heating & Cooling came to the rescue! They were prompt, professional, and got our heat back on quickly. We are so grateful for their quick response and excellent service! Highly recommend!",
+        "date": "2024-12-24"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Jacob Heating & Cooling | KC HVAC",
+        "description": "Reliable HVAC services in Kansas City, MO. AC repair, furnace installation, and more. Call +18164698760 for a free quote!"
+      },
+      "about": {
+        "title": "About Jacob Heating & Cooling",
+        "description": "Learn about Jacob Heating & Cooling in Kansas City, MO. Our commitment to quality HVAC service and customer satisfaction."
+      },
+      "services": {
+        "title": "HVAC Services | Jacob Heating & Cooling",
+        "description": "Explore our comprehensive HVAC services in Kansas City: AC repair, furnace installation, ductwork, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Jacob Heating & Cooling",
+        "description": "Contact Jacob Heating & Cooling for HVAC services in Kansas City, MO. Get a free quote or schedule a service appointment."
+      },
+      "reviews": {
+        "title": "Jacob Heating & Cooling Reviews",
+        "description": "Read what our customers say about Jacob Heating & Cooling in Kansas City. Honest reviews of our HVAC services."
+      },
+      "service-areas": {
+        "title": "Jacob Heating & Cooling Service Areas",
+        "description": "Jacob Heating & Cooling serves Kansas City and surrounding areas. Find reliable HVAC services near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair-kansas-city": "/images/service-ac-repair-kansas-city.webp",
+      "furnace-repair-kansas-city": "/images/service-furnace-repair-kansas-city.webp",
+      "ac-installation-kansas-city": "/images/service-ac-installation-kansas-city.webp",
+      "furnace-installation-kansas-city": "/images/service-furnace-installation-kansas-city.webp",
+      "hvac-maintenance-kansas-city": "/images/service-hvac-maintenance-kansas-city.webp",
+      "ductwork-services-kansas-city": "/images/service-ductwork-services-kansas-city.webp",
+      "emergency-hvac-repair-kansas-city": "/images/service-emergency-hvac-repair-kansas-city.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair-kansas-city": {
+        "src": "/images/service-ac-repair-kansas-city.webp",
+        "srcset": "/images/service-ac-repair-kansas-city-400w.webp 400w, /images/service-ac-repair-kansas-city-800w.webp 800w, /images/service-ac-repair-kansas-city-1200w.webp 1200w, /images/service-ac-repair-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furnace-repair-kansas-city": {
+        "src": "/images/service-furnace-repair-kansas-city.webp",
+        "srcset": "/images/service-furnace-repair-kansas-city-400w.webp 400w, /images/service-furnace-repair-kansas-city-800w.webp 800w, /images/service-furnace-repair-kansas-city-1200w.webp 1200w, /images/service-furnace-repair-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-installation-kansas-city": {
+        "src": "/images/service-ac-installation-kansas-city.webp",
+        "srcset": "/images/service-ac-installation-kansas-city-400w.webp 400w, /images/service-ac-installation-kansas-city-800w.webp 800w, /images/service-ac-installation-kansas-city-1200w.webp 1200w, /images/service-ac-installation-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furnace-installation-kansas-city": {
+        "src": "/images/service-furnace-installation-kansas-city.webp",
+        "srcset": "/images/service-furnace-installation-kansas-city-400w.webp 400w, /images/service-furnace-installation-kansas-city-800w.webp 800w, /images/service-furnace-installation-kansas-city-1200w.webp 1200w, /images/service-furnace-installation-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-maintenance-kansas-city": {
+        "src": "/images/service-hvac-maintenance-kansas-city.webp",
+        "srcset": "/images/service-hvac-maintenance-kansas-city-400w.webp 400w, /images/service-hvac-maintenance-kansas-city-800w.webp 800w, /images/service-hvac-maintenance-kansas-city-1200w.webp 1200w, /images/service-hvac-maintenance-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ductwork-services-kansas-city": {
+        "src": "/images/service-ductwork-services-kansas-city.webp",
+        "srcset": "/images/service-ductwork-services-kansas-city-400w.webp 400w, /images/service-ductwork-services-kansas-city-800w.webp 800w, /images/service-ductwork-services-kansas-city-1200w.webp 1200w, /images/service-ductwork-services-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-hvac-repair-kansas-city": {
+        "src": "/images/service-emergency-hvac-repair-kansas-city.webp",
+        "srcset": "/images/service-emergency-hvac-repair-kansas-city-400w.webp 400w, /images/service-emergency-hvac-repair-kansas-city-800w.webp 800w, /images/service-emergency-hvac-repair-kansas-city-1200w.webp 1200w, /images/service-emergency-hvac-repair-kansas-city.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
